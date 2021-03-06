@@ -1,4 +1,0 @@
-PIL
-numpy
-torch
-torchvision
